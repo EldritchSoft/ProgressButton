@@ -8,7 +8,7 @@ Android Library for easy ProgressBar and Button integration.
 
 Add this in your project's build.gradle:
 ```
-llprojects {
+allprojects {
     repositories {
         maven { url 'https://jitpack.io' }
     }
